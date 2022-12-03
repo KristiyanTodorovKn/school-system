@@ -1,0 +1,15 @@
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Core\bin\Debug\net6.0\SchoolSystem.Core.deps.json
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Core\bin\Debug\net6.0\SchoolSystem.Core.dll
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Core\bin\Debug\net6.0\SchoolSystem.Core.pdb
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Core\bin\Debug\net6.0\SchoolSystem.Infrastructure.dll
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Core\bin\Debug\net6.0\SchoolSystem.Infrastructure.pdb
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Core\obj\Debug\net6.0\SchoolSystem.Core.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Core\obj\Debug\net6.0\SchoolSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Core\obj\Debug\net6.0\SchoolSystem.Core.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Core\obj\Debug\net6.0\SchoolSystem.Core.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Core\obj\Debug\net6.0\SchoolSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Core\obj\Debug\net6.0\SchoolSystem.Core.csproj.CopyComplete
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Core\obj\Debug\net6.0\SchoolSystem.Core.dll
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Core\obj\Debug\net6.0\refint\SchoolSystem.Core.dll
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Core\obj\Debug\net6.0\SchoolSystem.Core.pdb
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Core\obj\Debug\net6.0\ref\SchoolSystem.Core.dll

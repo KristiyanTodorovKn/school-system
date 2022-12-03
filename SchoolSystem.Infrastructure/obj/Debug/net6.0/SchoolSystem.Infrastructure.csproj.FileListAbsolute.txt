@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Infrastructure\bin\Debug\net6.0\SchoolSystem.Infrastructure.deps.json
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Infrastructure\bin\Debug\net6.0\SchoolSystem.Infrastructure.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Infrastructure\bin\Debug\net6.0\SchoolSystem.Infrastructure.dll
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Infrastructure\bin\Debug\net6.0\SchoolSystem.Infrastructure.pdb
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Infrastructure\obj\Debug\net6.0\SchoolSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Infrastructure\obj\Debug\net6.0\SchoolSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Infrastructure\obj\Debug\net6.0\SchoolSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Infrastructure\obj\Debug\net6.0\SchoolSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Infrastructure\obj\Debug\net6.0\SchoolSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Infrastructure\obj\Debug\net6.0\SchoolSystem.Infrastructure.dll
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Infrastructure\obj\Debug\net6.0\refint\SchoolSystem.Infrastructure.dll
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Infrastructure\obj\Debug\net6.0\SchoolSystem.Infrastructure.pdb
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Infrastructure\obj\Debug\net6.0\SchoolSystem.Infrastructure.genruntimeconfig.cache
+C:\Users\Kristiyan\source\repos\SchoolSystem\SchoolSystem.Infrastructure\obj\Debug\net6.0\ref\SchoolSystem.Infrastructure.dll
